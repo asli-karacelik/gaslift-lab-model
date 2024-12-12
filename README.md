@@ -8,4 +8,4 @@ In the files:
   - S indicates the submergence ratio in the file titles. For example, S_0_442_* signifies that the submergence ratio is 0.442.
   - The main code is in the *_main_code.m files. Running this code will generate all the graphs for both experimental and theoretical studies. 
   - *_model_function.m files contain the proposed mathematical model. 
-  - *_parameter_function.m files contains all the necessary parameters. 
+  - *_parameter_function.m files contain all the necessary parameters. 
