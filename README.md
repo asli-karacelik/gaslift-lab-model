@@ -1,4 +1,4 @@
-The developed mathematical model is for gas lift laboratory studies, which can be modified to employ it for industrial applications.  
+The developed mathematical model is for gas lift laboratory studies, which can be modified for industrial applications.  
 
 The files are named according to the researchers who conducted the related experimental study. 
 
