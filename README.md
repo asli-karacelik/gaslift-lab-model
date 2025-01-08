@@ -3,7 +3,7 @@ The developed mathematical model is for gas lift laboratory studies and can be m
 The files are named after the researchers who conducted the experimental studies:
 
 [1] A. H. Stenning, C. B. Martin, An analytical and experimental study of air-lift pump performance, J. Eng. Gas Turbines Power 90 (1968) 106–110.
-URL https://doi.org/10.1115/1.3609143
+https://doi.org/10.1115/1.3609143
 
 [2] S. Z. Kassab, H. A. Kandil, H. A. Warda, W. H. Ahmed, Air-lift pumps characteristics under two-phase flow conditions, Int. J. Heat Fluid Fl. 30 (2009) 88–98.
 https://doi.org/10.1016/j.ijheatfluidflow.2008.09.002
@@ -15,7 +15,7 @@ https://doi.org/10.1115/IMECE2014-39899
 https://doi.org/10.1299/jsme1958.16.733
 
 [5] Becaria, P. R. Toma, E. Kuru, Small-diameter gas lift systems—a potential technical solution for transport of fluids from low-pressure reservoirs, J. Can. Petrol. Technol. 45 (2006) 47–54.
-URL https://doi.org/10.2118/06-06-03
+https://doi.org/10.2118/06-06-03
 
 In the files:
   - The extracted experimental data are in CSV files. The data was obtained from the research papers using PlotDigitizer version 3.1.5. 
