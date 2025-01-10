@@ -1,6 +1,6 @@
-The developed mathematical model is for gas lift laboratory studies and can be modified for industrial applications.  
+The developed mathematical model is for gas lift laboratory studies and can be modified for industrial applications.
 
-The files are named after the researchers who conducted the experimental studies:
+The folders are named after the researchers who conducted the experimental studies:
 
 [1] A. H. Stenning, C. B. Martin, An analytical and experimental study of air-lift pump performance, J. Eng. Gas Turbines Power 90 (1968) 106–110.
 https://doi.org/10.1115/1.3609143
