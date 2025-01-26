@@ -1,5 +1,4 @@
 The developed mathematical model is for gas lift laboratory studies and can be modified for industrial applications.
-![drawing](https://github.com/user-attachments/assets/eef66cc0-85ab-4c0a-bedc-dfbd5438d908)
 
 The folders are named after the researchers who conducted the experimental studies:
 
@@ -24,3 +23,4 @@ In the files:
   - The main code is in the main_*.m files. Running this code will generate all the graphs for both experimental and theoretical studies. 
   - function_model_*.m files contain the proposed mathematical model. 
   - function_parameter_*.m files contain all the necessary parameters. 
+                                              ![drawing](https://github.com/user-attachments/assets/06508a2c-f170-49c1-821b-6e8603e2ac3b)
