@@ -23,4 +23,6 @@ In the files:
   - The main code is in the main_*.m files. Running this code will generate all the graphs for both experimental and theoretical studies. 
   - function_model_*.m files contain the proposed mathematical model. 
   - function_parameter_*.m files contain all the necessary parameters. 
-                                              ![drawing](https://github.com/user-attachments/assets/06508a2c-f170-49c1-821b-6e8603e2ac3b)
+
+
+                                                 ![drawing](https://github.com/user-attachments/assets/06508a2c-f170-49c1-821b-6e8603e2ac3b)
