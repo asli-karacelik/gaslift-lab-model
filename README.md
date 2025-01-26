@@ -1,5 +1,5 @@
 The developed mathematical model is for gas lift laboratory studies and can be modified for industrial applications.
-[Uploading FIG1.eps…]()
+![FIG2](https://github.com/user-attachments/assets/9f28a2d9-9cc2-46cf-99d2-0055b5205ff0)
 
 The folders are named after the researchers who conducted the experimental studies:
 
