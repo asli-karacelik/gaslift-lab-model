@@ -25,4 +25,6 @@ In the files:
   - function_parameter_*.m files contain all the necessary parameters. 
 
 
-                                                 ![drawing](https://github.com/user-attachments/assets/06508a2c-f170-49c1-821b-6e8603e2ac3b)
+                ![drawing](https://github.com/user-attachments/assets/8e5a8a74-5e4b-4548-b81f-fef2e58c566f)
+
+
