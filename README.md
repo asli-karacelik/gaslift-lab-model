@@ -24,7 +24,4 @@ In the files:
   - function_model_*.m files contain the proposed mathematical model. 
   - function_parameter_*.m files contain all the necessary parameters. 
 
-
-                ![drawing](https://github.com/user-attachments/assets/8e5a8a74-5e4b-4548-b81f-fef2e58c566f)
-
-
+![drawing](https://github.com/user-attachments/assets/6f69865c-3a5b-4d42-8c9e-12e2e3aa238d)
