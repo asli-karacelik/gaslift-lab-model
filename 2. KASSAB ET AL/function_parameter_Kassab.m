@@ -4,12 +4,12 @@ function par = function_parameter_Kassab(S)
 par.S = S;                           % Submergence ratio: ratio of the height of the vertical pipe to height of the reservoir
 par.D = 2.54;                        % Diameter of the vertical pipe (cm)
 par.H = 375;                         % Height of the vertical pipe (cm)
-par.rhol = 0.998204;                 % Liquid density (g/cm3) at 20 °C
+par.rhol = 0.99821;                 % Liquid density (g/cm3) at 20 °C
 par.T = 293.15;                      % Temperature (K) [20 °C]
 
 % Constants
 par.g = 980.665;                     % Acceleration of gravity (cm/s2)
-par.Mg = 28.951;                     % Molecular weight of air (g/mol)
+par.Mg = 28.9586;                     % Molecular weight of air (g/mol)
 par.patm = 1013250;                  % Atmospheric pressure (g/cm-s2 [0.1 * Pa])
 par.R = 8.314462618 * 1e7;           % Universal gas constant (g-cm2/s2-K-mol)
 
