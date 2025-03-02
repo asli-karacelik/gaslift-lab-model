@@ -1,7 +1,7 @@
 function par = function_parameter_Goharzadeh(S)
 %% Parameters
 % Input parameters
-par.S = S;                           % Ratio of the height of the vertical pipe to height of the reservoir
+par.S = S;                           % Submergence ratio is the ratio of the reservoir height to the vertical pipe height
 par.D = 1.9;                         % Diameter of the vertical pipe (cm)
 par.H = 80;                          % Height of the vertical pipe (cm)
 par.rhol = 0.99821;                  % Liquid density (g/cm3) at 20 °C
