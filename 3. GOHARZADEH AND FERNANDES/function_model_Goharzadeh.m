@@ -32,7 +32,7 @@ ml = x(2); % Liquid mass (g)
     % Average gas volume fraction
     alphag_avg = 1 - alphal_avg;
     % Gas volume fraction at the pipe top
-    alphagtop = alphag_avg * pavg/ptop;
+    alphagtop = alphag_avg * pavg / ptop;
     % Gas volume fraction at the pipe bottom 
     alphagbot = 2 * alphag_avg - alphagtop;
 % Density (g/cm3)
